@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/to-do-list/static/css/main.f2df2c9d.chunk.css",
-    "main.js": "/to-do-list/static/js/main.580ab0f7.chunk.js",
-    "main.js.map": "/to-do-list/static/js/main.580ab0f7.chunk.js.map",
-    "runtime~main.js": "/to-do-list/static/js/runtime~main.cc244b0f.js",
-    "runtime~main.js.map": "/to-do-list/static/js/runtime~main.cc244b0f.js.map",
-    "static/js/2.0cff5fc7.chunk.js": "/to-do-list/static/js/2.0cff5fc7.chunk.js",
-    "static/js/2.0cff5fc7.chunk.js.map": "/to-do-list/static/js/2.0cff5fc7.chunk.js.map",
-    "index.html": "/to-do-list/index.html",
-    "precache-manifest.dd0423252dbc1971e3828630be3d8efc.js": "/to-do-list/precache-manifest.dd0423252dbc1971e3828630be3d8efc.js",
-    "service-worker.js": "/to-do-list/service-worker.js",
-    "static/css/main.f2df2c9d.chunk.css.map": "/to-do-list/static/css/main.f2df2c9d.chunk.css.map"
+    "main.css": "/Nickg1995/Nickg1995.github.io/static/css/main.f2df2c9d.chunk.css",
+    "main.js": "/Nickg1995/Nickg1995.github.io/static/js/main.580ab0f7.chunk.js",
+    "main.js.map": "/Nickg1995/Nickg1995.github.io/static/js/main.580ab0f7.chunk.js.map",
+    "runtime~main.js": "/Nickg1995/Nickg1995.github.io/static/js/runtime~main.63d103c3.js",
+    "runtime~main.js.map": "/Nickg1995/Nickg1995.github.io/static/js/runtime~main.63d103c3.js.map",
+    "static/js/2.0cff5fc7.chunk.js": "/Nickg1995/Nickg1995.github.io/static/js/2.0cff5fc7.chunk.js",
+    "static/js/2.0cff5fc7.chunk.js.map": "/Nickg1995/Nickg1995.github.io/static/js/2.0cff5fc7.chunk.js.map",
+    "index.html": "/Nickg1995/Nickg1995.github.io/index.html",
+    "precache-manifest.fd3921419a988cd23ddc12bf8bb209e8.js": "/Nickg1995/Nickg1995.github.io/precache-manifest.fd3921419a988cd23ddc12bf8bb209e8.js",
+    "service-worker.js": "/Nickg1995/Nickg1995.github.io/service-worker.js",
+    "static/css/main.f2df2c9d.chunk.css.map": "/Nickg1995/Nickg1995.github.io/static/css/main.f2df2c9d.chunk.css.map"
   }
 }
