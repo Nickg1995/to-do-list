@@ -11,7 +11,8 @@ const TodoForm = ({ saveTodo }) => //arrow expression = compact alternative to a
     // our first array's index will be the state's current value 
     return (
         <form
-            onSubmit={event => {
+            onSubmit={event => 
+            {
                 event.preventDefault() //this will prevent the user from submitting an item without meeting the recquirements 
                 saveTodo(value) //this will save the value we submit 
                 setValue('') //this will reset the textfield so the user won't see what they were previously writting 
@@ -20,7 +21,8 @@ const TodoForm = ({ saveTodo }) => //arrow expression = compact alternative to a
             <TextField variant="outlined" placeholder="Add an item" // This will add placeholder text so the user knows
                 inputProps={{ style: { textAlign: 'center', width: 1395, } }}
                 // where to instert their text
-                onChange={event => {
+                onChange={event => 
+                {
                     setValue(event.target.value) //this will set text in the textfield
                 }}
                 value={value}
