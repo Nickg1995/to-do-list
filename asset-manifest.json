@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nickg1995/to-do-list/static/css/main.f2df2c9d.chunk.css",
+    "main.js": "/Nickg1995/to-do-list/static/js/main.580ab0f7.chunk.js",
+    "main.js.map": "/Nickg1995/to-do-list/static/js/main.580ab0f7.chunk.js.map",
+    "runtime~main.js": "/Nickg1995/to-do-list/static/js/runtime~main.21f9c6c5.js",
+    "runtime~main.js.map": "/Nickg1995/to-do-list/static/js/runtime~main.21f9c6c5.js.map",
+    "static/js/2.0cff5fc7.chunk.js": "/Nickg1995/to-do-list/static/js/2.0cff5fc7.chunk.js",
+    "static/js/2.0cff5fc7.chunk.js.map": "/Nickg1995/to-do-list/static/js/2.0cff5fc7.chunk.js.map",
+    "index.html": "/Nickg1995/to-do-list/index.html",
+    "precache-manifest.5ed3844d9f84b5046f05c7a9bb4a839d.js": "/Nickg1995/to-do-list/precache-manifest.5ed3844d9f84b5046f05c7a9bb4a839d.js",
+    "service-worker.js": "/Nickg1995/to-do-list/service-worker.js",
+    "static/css/main.f2df2c9d.chunk.css.map": "/Nickg1995/to-do-list/static/css/main.f2df2c9d.chunk.css.map"
+  }
+}
